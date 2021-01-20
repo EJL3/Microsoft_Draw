@@ -194,7 +194,7 @@ def initalize(cols, rows, showGrid=False):
 
     pygame.display.set_icon(paintBrush)
     win = pygame.display.set_mode((int(wid), int(heigh) + 100))
-    pygame.display.set_caption('Untitled')
+    pygame.display.set_caption('By Rizwan.AR')
     win.fill((255, 255, 255))
 
     # CREATION OF OBJECTS
